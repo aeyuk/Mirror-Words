@@ -13,6 +13,7 @@ It cannot do a true mirror of the text, as we do not have the ability to change 
 ## Example
 Consider the input: 
               `The quick brown fox jumps over the lazy old dog.`
+
 This text, written backwards, is:
               `.god dlo yzal eht revo spmuj xof nworb kciuq ehT`
 
